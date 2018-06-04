@@ -1,0 +1,18 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: brown;
+}
+th, td {
+    padding: 5px;
+}
+th {
+    text-align: left;
+}
+body{
+background-image: url(../assets/budget.jpg);
+width: 100%;
+height:100vh;
+background-size: cover;
+
+}
